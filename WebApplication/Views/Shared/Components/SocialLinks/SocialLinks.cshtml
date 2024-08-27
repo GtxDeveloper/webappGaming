@@ -1,0 +1,11 @@
+﻿@using WebApplication.Entities
+<ul class="nk-social-links">
+    @foreach (Option oneOption in Model as List<Option>)
+    {
+        <li>
+            <a class="nk-social-rss" href="@oneOption.Key">
+                @Html.Raw(@oneOption.Value)
+            </a>
+        </li>
+    }
+</ul>

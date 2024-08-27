@@ -1,0 +1,579 @@
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.xml
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication.styles.css
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\de_Riter\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TopHeader\TopHeader.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.StaticWebAssets.xml
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\Music\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TopHeader\TopHeader.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Pack.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication.props
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication.props
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication.props
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SocialLinks\SocialLinks.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SiteLogo\SiteLogo.cshtml.g.cs
+C:\Users\Student\Music\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavBar.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.xml
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication.styles.css
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavBar.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SiteLogo\SiteLogo.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SocialLinks\SocialLinks.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TopHeader\TopHeader.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavElement.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\DropDownNavElement.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Blog\OnePost.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\FooterLastPosts\FooterLastPosts.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.StaticWebAssets.xml
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Blog\OnePost.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\FooterLastPosts\FooterLastPosts.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\DropDownNavElement.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavBar.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavElement.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SiteLogo\SiteLogo.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SocialLinks\SocialLinks.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TopHeader\TopHeader.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AccountLayout.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Pack.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication.props
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication.props
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication.props
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\SetupNewPassword.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminAsideMenu\AdminAsideMenu.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminHeader\AdminHeader.cshtml.g.cs
+C:\Users\Student\Videos\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Options.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.StaticWebAssets.xml
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\SetupNewPassword.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Options.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Blog\OnePost.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminAsideMenu\AdminAsideMenu.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminHeader\AdminHeader.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\FooterLastPosts\FooterLastPosts.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\DropDownNavElement.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavBar.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavElement.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SiteLogo\SiteLogo.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SocialLinks\SocialLinks.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TopHeader\TopHeader.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AccountLayout.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Pack.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication.props
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication.props
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication.props
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RemoveOption.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateOption.cshtml.g.cs
+C:\Users\Student\Music\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateOption.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\SetupNewPassword.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateOption.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Options.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminAsideMenu\AdminAsideMenu.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminHeader\AdminHeader.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AccountLayout.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MessageInfo.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateOption.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Profile.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProfile.cshtml.g.cs
+C:\Users\de_Riter\3D Objects\WebApplication PV211\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\SecurityProfile.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.StaticWebAssets.xml
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\SetupNewPassword.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateOption.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProfile.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MessageInfo.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Options.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Profile.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RemoveOption.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\SecurityProfile.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateOption.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Blog\OnePost.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminAsideMenu\AdminAsideMenu.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AdminHeader\AdminHeader.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\FooterLastPosts\FooterLastPosts.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\DropDownNavElement.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavBar.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\NavElement.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SiteLogo\SiteLogo.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SocialLinks\SocialLinks.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TopHeader\TopHeader.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AccountLayout.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Pack.cache
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication.props
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication.props
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication.props
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\landi\OneDrive\Робочий стіл\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache

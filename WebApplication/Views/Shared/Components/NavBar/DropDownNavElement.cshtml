@@ -1,0 +1,36 @@
+﻿@using WebApplication.Entities
+@{
+    var oneChild = Model as Navigate;
+}
+
+@{
+    IHtmlHelper RenderTreeNode(Navigate node)
+    {
+        @if (node.Childs != null && node.Childs.Any())
+        {
+            <li class="nk-drop-item">
+                <a href="@node.Href">@node.Title</a>
+
+                <ul class="dropdown">
+                    @foreach (Navigate child in node.Childs)
+                    {
+                        @RenderTreeNode(child)
+                    }
+                </ul>
+
+            </li>
+        }
+        else
+        {
+            <li>
+                <a href="@node.Href">
+                    @node.Title
+                </a>
+            </li>
+        }
+
+        return null;
+    }
+}
+
+@RenderTreeNode(oneChild)

@@ -1,0 +1,17 @@
+﻿@using WebApplication.Common
+@{
+    var controller = CustomHttpContext.HttpContext.Request.RouteValues["Controller"].ToString();
+
+    if (controller == "Admin" )
+    {
+        Layout = "_AdminLayout";
+    }
+    else if (controller == "Account")
+    {
+        Layout = "_AccountLayout";
+    }
+    else
+    {
+        Layout = "_Layout";
+    }
+}

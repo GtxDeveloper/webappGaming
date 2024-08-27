@@ -1,0 +1,63 @@
+/* PLACE YOU CUSTOM STYLES IN THIS FILE */
+.custom-list-element {
+    font-size: 17px;
+    font-weight: 700;
+    width: 100%;
+}
+
+    .custom-list-element a {
+        padding: 5px 15px;
+        width: 100%;
+        height: auto;
+    }
+
+.one-game-tag {
+    display: inline-block;
+    padding: 3px 12px;
+    background-color: #dd163b;
+    color: white;
+    margin: 5px 3px;
+    text-decoration:none;
+}
+.one-game-tag:hover {
+    background-color: white;
+    color: #dd163b;
+    text-decoration: none;
+}
+.custom-list-element-button {
+    padding: 5px 15px;
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius:10px;
+    width: 100%;
+    height: auto;
+}
+
+.post-info-message {
+    width:100%;
+}
+.nk-post-category span {
+    padding: 2px 19px;
+    color: #fff;
+    background-color: #293139;
+    border-radius: 4px;
+}
+.one-tag {
+    margin: 5px;
+    display:inline-block;
+    padding: 0px !important;
+}
+.one-tag span {
+    padding: 3px 8px;
+}
+    .one-tag:hover span {
+        background-color: white !important;
+        cursor: pointer;
+        color: red;
+    }
+
+.selected-comment {
+    box-shadow: 0px 0px 12px 0px rgba(255,5,5,1);
+    border-radius: 6px;
+    background-color:lightblue;
+    color:black;
+}
